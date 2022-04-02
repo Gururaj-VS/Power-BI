@@ -1,4 +1,4 @@
-# Power-BI
+# Sales Dashboard
 All dashboards related to power BI
 [sales.pdf](https://github.com/Gururaj-VS/Power-BI/files/8402383/sales.pdf).
 This is Sales Related DashBoard made using Power BI Dashboard. This Dashboard contains all the data related to Sales i.e 
